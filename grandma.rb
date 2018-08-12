@@ -13,15 +13,6 @@
 # 'I LOVE YOU TOO PUMPKIN!'
  hello = "hello.downcase"
  
-def speak_to_grandma
- hello = "HELLO" 
- i_love_you_grandma = "I LOVE YOU GRANDMA!"
- 
-if hello == "hello"
-  puts "HUH? SPEAK UP,"
-elsif hello == "HELLO"
-  puts " NO, NOT SINCE 1938!"
-else I LOVE YOU GRANDMA! == "
 
 
 
