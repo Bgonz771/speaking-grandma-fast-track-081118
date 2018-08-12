@@ -15,3 +15,14 @@
  
 def speak_to_grandma
   
+ 
+if hello == "hello"
+  puts "HUH? SPEAK UP,"
+elsif hello == "HELLO"
+  puts " NO, NOT SINCE 1938!"
+else I LOVE YOU GRANDMA! == "I LOVE YOU GRANDMA!"
+  puts "I LOVE YOU TO PUMPKIN"
+end
+
+
+end
