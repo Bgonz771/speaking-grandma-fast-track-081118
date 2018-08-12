@@ -15,7 +15,7 @@
  
 def speak_to_grandma
  hello = "HELLO" 
- i LOVE YOU GRANDMA! = "I LOVE YOU GRANDMA!"
+ i_love_you_grandma = "I LOVE YOU GRANDMA!"
  
 if hello == "hello"
   puts "HUH? SPEAK UP,"
