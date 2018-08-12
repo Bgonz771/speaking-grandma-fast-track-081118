@@ -24,6 +24,9 @@ elsif hello == "HELLO"
 else I LOVE YOU GRANDMA! == "I LOVE YOU GRANDMA!"
   puts "I LOVE YOU TO PUMPKIN"
 end
+speak_to_grandma
+
+
 
 
 end
