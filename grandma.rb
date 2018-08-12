@@ -14,5 +14,4 @@
  hello = "hello.downcase"
  
 def speak_to_grandma
-  if Hello = Hello 
-end 
+  
